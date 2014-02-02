@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ACRAExample</string>
+    <string name="toast_crash">Something went wrong :( But no worries, a report has been sent to help fix the issue.</string>
+
+</resources>
